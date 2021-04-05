@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Contacts Manager</string>
+    <string name="show_additional_fields">Show Additional Fields</string>
+    <string name="hide_additional_fields">Hide Additional Fields</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="job_title">Job Title</string>
+    <string name="company">Company</string>
+    <string name="website">Website</string>
+    <string name="IM">IM</string>
+    <string name="phone_error">Phone number received from intent is null!</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
+    <string name="number_7">7</string>
+    <string name="number_8">8</string>
+    <string name="number_9">9â</string>
+    <string name="star">*</string>
+    <string name="number_0">0</string>
+    <string name="pound">#</string>
+</resources>
